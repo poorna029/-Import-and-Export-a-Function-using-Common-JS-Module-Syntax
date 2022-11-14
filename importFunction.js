@@ -1,2 +1,2 @@
 const exp = require("./exportFunction");
-console.log(exp);
+// console.log(exp);
