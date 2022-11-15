@@ -7,3 +7,6 @@ Write a JS function that returns the `This is a Function` text, in the file `exp
 Import the function in the `importFunction.js` file.
 
 <b>Use Common JS module syntax</b>.
+
+<!-- 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 -->
+<!-- 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 -->
